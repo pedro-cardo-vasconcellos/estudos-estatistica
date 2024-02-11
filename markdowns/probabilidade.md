@@ -1,7 +1,7 @@
 # Probabilidade
 
 - [Experimento aleatório](#experimento-aleatório)
-  - [Experimento de Bernoulli](#experimento-de-Bernoulli)
+  - [Experimento de Bernoulli](#experimento-de-bernoulli)
 - [Espaço amostral](#espaço-amostral)
 - [Evento](#evento)
 - [Espaço de eventos](#espaço-de-eventos)
@@ -13,11 +13,11 @@
 - [Distribuições de probabilidade](#distribuições-de-probabilidade)
   - [Distribuição binomial](#distribuição-binomial)
   - [Distribuição binomial negativa](#distribuição-binomial-negativa)
-  - [Distribuição de Poisson](#distribuição-de-Poisson)
+  - [Distribuição de Poisson](#distribuição-de-poisson)
   - [Distribuição normal](#distribuição-normal)
   - [Distribuição qui-quadrado](#distribuição-qui-quadrado)
   - [Distribuição t de Student](#distribuição-t-de-student)
-  - [Distribuição F de Snedecor](#distribuição-F-de-Snedecor)
+  - [Distribuição F de Snedecor](#distribuição-f-de-snedecor)
 
 ## Experimento aleatório
 

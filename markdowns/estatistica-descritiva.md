@@ -19,7 +19,7 @@
     - [Erro padrão](#erro-padrão)
 - [Medidas de correlação](#medidas-de-correlação)
   - [Covariância](#covariância)
-  - [Coeficiente de correlação de Pearson](#coeficiente-de-correlação-de-Pearson)
+  - [Coeficiente de correlação de Pearson](#coeficiente-de-correlação-de-pearson)
 - [Gráficos](#gráficos)
   - [Gráfico de barras](#gráfico-de-barras)
   - [_Boxplot_](#boxplot)

@@ -16,6 +16,6 @@ Os estudos estão sintetizados em _markdowns_ e _notebooks_:
 
 O arquivo [_formulas.toml_](formulas.toml) possui as sintaxes LaTeX das expressões matemáticas.
 
-O arquivo [_plots.ipynb_](notebooks/plots.ipynb) possui os _scripts_ utilizados para criação dos gráficos.
+O arquivo [_plots.ipynb_](notebooks/plots.ipynb) possui os _scripts_ para criação dos gráficos.
 
-O arquivo [_requirements.txt_](requirements.txt) possui os pacotes utilizandos nos _notebooks_.
+O arquivo [_requirements.txt_](requirements.txt) possui os pacotes utilizados nos _notebooks_.

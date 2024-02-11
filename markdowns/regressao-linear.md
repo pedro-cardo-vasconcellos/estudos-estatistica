@@ -4,14 +4,14 @@
   - [Equação](#equação)
   - [Notação matricial](#notação-matricial)
 - [Variáveis _dummies_](#variáveis-dummies)
-  - [_One-hot_ _enconding_](#one-hot-enconding)
+  - [_One-hot_ _encoding_](#one-hot-encoding)
 - [_Fitted_ _values_](#fitted-values)
 - [Resíduos](#resíduos)
 - [_Ordinary_ _least_ _squares_](#ordinary-least-squares)
 - [Teste F](#teste-f)
 - [Teste t de Student](#teste-t-de-student)
-- [_R²_](#r)
-  - [_R²_ ajustado](#r-ajustado)
+- [_R²_](#r²)
+  - [_R²_ ajustado](#r²-ajustado)
 - [Normalidade dos resíduos](#normalidade-dos-resíduos)
   - [Teste Shapiro-Wilk](#teste-shapiro-wilk)
 - [Resíduos homocedásticos](#resíduos-homocedásticos)
@@ -75,9 +75,9 @@ O valor 1 em uma variável _dummy_ indica a presença da categoria da variável 
 | baunilha  |         0         |        1         |        0        |
 |  morango  |         0         |        0         |        1        |
 
-### _One-hot_ _enconding_
+### _One-hot_ _encoding_
 
-_One-hot_ _enconding_ é um método de criação de variáveis _dummies_ que utiliza uma categoria da variável qualitativa como referência.
+_One-hot_ _encoding_ é um método de criação de variáveis _dummies_ que utiliza uma categoria da variável qualitativa como referência.
 
 O valor 0 em todas as variáveis _dummies_ indica a presença da categoria de referência.
 
@@ -87,7 +87,7 @@ O valor 0 em todas as variáveis _dummies_ indica a presença da categoria de re
 | baunilha  |        1         |        0        |
 |  morango  |        0         |        1        |
 
-Variáveis _dummies_ transformadas com _one-hot_ _enconding_ podem ser utilizadas em modelos de regressão.
+Variáveis _dummies_ transformadas com _one-hot_ _encoding_ podem ser utilizadas em modelos de regressão.
 
 ## _Fitted_ _values_
 

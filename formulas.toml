@@ -1,3 +1,4 @@
+[formulas]
 axioma-funcao-probabilidade-1 = 'P(A)\geq 0'
 axioma-funcao-probabilidade-2 = 'P(\Omega)=1'
 axioma-funcao-probabilidade-3 = 'P\left(\bigcup\limits_{i=1}^{\infty}A_{i}\right)=\sum_{i=1}^{\infty}P(A_i)'

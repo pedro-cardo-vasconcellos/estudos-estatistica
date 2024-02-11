@@ -12,10 +12,10 @@
   - [Testes unilaterais](#testes-unilaterais)
   - [Testes bilaterais](#testes-bilaterais)
   - [Decisão](#decisão)
-- [Teste t de Student](#teste-t-de-Student)
+- [Teste t de Student](#teste-t-de-student)
   - [Para uma amostra](#para-uma-amostra)
   - [Para duas amostras independentes](#para-duas-amostras-independentes)
-- [Teste t de Welch](#teste-t-de-Welch)
+- [Teste t de Welch](#teste-t-de-welch)
 - [Teste de independência qui-quadrado](#teste-de-independência-qui-quadrado)
 
 ## Amostragem
